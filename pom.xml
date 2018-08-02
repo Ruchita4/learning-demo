@@ -19,7 +19,7 @@
             <id>sonar</id>
             <sonar.host.url>18.222.232.94:9000</sonar.host.url>
             </properties>   
-        <profile>
+        </profile>
     </profiles>
     <dependencies>
         <dependency>
